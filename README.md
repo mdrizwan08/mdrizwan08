@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web Developer | Software Developer | Technical Support Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Problem+Solver;Tech+Enthusiast;Future+Full+Stack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Learner;Networking+%26+Hardware+Enthusiast;Problem+Solver;Future+IT+Professional" />
 </p>
 
 ---
@@ -10,35 +10,52 @@
 ## 🚀 About Me
 💡 Passionate Computer Science graduate focused on real-world problem solving  
 🌐 Interested in Web Development, Software Development & Technical Support  
-🔐 Exploring Cybersecurity alongside development  
-📈 Constant learner aiming for excellence in IT industry  
+🌐 Strong foundation in Networking & Hardware concepts  
+🗄️ Knowledge in Database Management using MySQL  
+📈 Continuous learner exploring modern technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🌐 Networking & Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+<p align="center">
+  🔹 Networking Fundamentals | OSI Model | TCP/IP | Routing & Switching  
+  🔹 Hardware Troubleshooting | System Configuration | Device Management  
 </p>
 
 ### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 💼 What I Do
-✔️ Build responsive and user-friendly web applications  
-✔️ Develop scalable and efficient software solutions  
-✔️ Provide technical support & troubleshoot system issues  
-✔️ Practice Data Structures & Problem Solving  
+✔️ Build responsive and modern web applications  
+✔️ Develop efficient and scalable software solutions  
+✔️ Work with databases and backend logic  
+✔️ Handle networking & hardware troubleshooting  
+✔️ Provide technical support for real-world issues  
 
 ---
 
@@ -86,5 +103,5 @@
 
 ## 🔥 Quote
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <i>"Code. Build. Secure. Support. Repeat."</i>
 </p>
